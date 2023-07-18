@@ -1,0 +1,15 @@
+.heading_div
+{
+    font-family: 'Noto Serif', serif;
+    background-color: green;
+}
+body{
+    text-align: center;
+    background-color: aqua;
+}
+.copy_right_footer
+{
+    background-color: grey;
+    width: 100%;
+    height: 5%;
+}
